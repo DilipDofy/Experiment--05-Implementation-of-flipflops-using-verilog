@@ -199,7 +199,8 @@ endmodule
 
 
 #### T Flip-Flop :-
-![image](https://github.com/Raji1009/Experiment--05-Implementation-of-flipflops-using-verilog/assets/89059861/bb44784e-c5d1-4114-bd45-5b87aafa68e4)
+![image](https://github.com/DilipDofy/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147223497/4712ef1b-defa-4706-adb7-48cf59897834)
+
 
 
 ## TIMING DIGRAMS FOR FLIP FLOPS 
