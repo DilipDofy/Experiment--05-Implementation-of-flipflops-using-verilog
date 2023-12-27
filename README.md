@@ -218,7 +218,8 @@ endmodule
 
 
 #### T Flip-Flop :-
-![image](https://github.com/Raji1009/Experiment--05-Implementation-of-flipflops-using-verilog/assets/89059861/bf28566a-e8e0-4bca-a450-4a7e7226d062)
+![image](https://github.com/DilipDofy/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147223497/0000353c-b409-450d-a605-de9c78d3cd14)
+
 
 
 ### RESULTS 
